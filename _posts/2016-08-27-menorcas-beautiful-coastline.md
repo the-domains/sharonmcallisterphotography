@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "In May of 2016, I went to visit my daughter in Menorca and, since she is experimenting with photography right now, we decided to spend a couple of evenings doing some shooting together. She, with my old Canon Camera and me with my fairly new Nikon. \_"
-datePublished: '2016-08-27T16:30:24.510Z'
-dateModified: '2016-08-27T16:29:54.459Z'
+datePublished: '2016-08-27T16:31:36.266Z'
+dateModified: '2016-08-27T16:30:37.389Z'
 title: Menorcas Beautiful Coastline
 author: []
 via: {}
