@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: "This ancient\_megalithic monument, believed to have been created from the Nordic Iron-age period (1400 yrs ago), consists of 59 large stones arranged into a the shape of a ship.\_"
-datePublished: '2016-08-27T16:09:55.363Z'
-dateModified: '2016-08-27T16:06:53.309Z'
+datePublished: '2016-08-27T16:29:44.955Z'
+dateModified: '2016-08-27T16:29:19.488Z'
 author:
   - name: Sharon McAllister Photography
     url: ''
@@ -15,7 +15,11 @@ via: {}
 title: Ales Stenar at Kåseberga
 sourcePath: _posts/2016-08-27-ales-stenar-at-kaseberga.md
 authors: []
-publisher: {}
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 _context: 'http://schema.org'
 _type: Article
