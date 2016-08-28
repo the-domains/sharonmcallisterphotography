@@ -1,28 +1,40 @@
-name: Sharon McAllister Photography
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4657
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.875
+  brandStrength: 0.5625
+  rhythmicContrast: 0.25
   brandColors:
     - '#daefe8'
     - '#050505'
     - '#72979f'
     - '#3e6a99'
     - '#7b4f30'
-  brandStrength: 0.5625
   lightness: 0.8125
-  saturation: 0.875
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Sharon McAllister Photography
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4657
+layout_spectrum: 0.7787234
