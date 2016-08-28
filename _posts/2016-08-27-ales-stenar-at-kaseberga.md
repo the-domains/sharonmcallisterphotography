@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: "This ancient\_megalithic monument, believed to have been created from the Nordic Iron-age period (1400 yrs ago), consists of 59 large stones arranged into a the shape of a ship.\_"
-datePublished: '2016-08-27T16:34:44.815Z'
-dateModified: '2016-08-27T16:34:29.870Z'
+datePublished: '2016-08-27T16:37:17.383Z'
+dateModified: '2016-08-27T16:35:04.674Z'
 author:
   - name: Sharon McAllister Photography
     url: ''
