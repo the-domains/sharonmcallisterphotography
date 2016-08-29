@@ -1,4 +1,18 @@
-typography_spectrum: 0.4657
+title: Sharon McAllister photography
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: nature through my eyes
 color:
   saturation: 0.875
   brandStrength: 0.5625
@@ -10,33 +24,19 @@ color:
     - '#3e6a99'
     - '#7b4f30'
   lightness: 0.8125
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.5361702
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Sharon McAllister Photography
-cta:
-  bucket: null
-  version: null
-  domain: null
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Sharon McAllister photography
-description: nature through my eyes
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4657
+layout_spectrum: 0.2893617
