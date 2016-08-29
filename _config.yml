@@ -1,4 +1,30 @@
-purpose: []
+typography_spectrum: 0.4657
+color:
+  saturation: 0.875
+  brandStrength: 0.5625
+  rhythmicContrast: 0.25
+  brandColors:
+    - '#daefe8'
+    - '#050505'
+    - '#72979f'
+    - '#3e6a99'
+    - '#7b4f30'
+  lightness: 0.8125
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5361702
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Sharon McAllister Photography
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -11,30 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.875
-  brandStrength: 0.5625
-  rhythmicContrast: 0.25
-  brandColors:
-    - '#daefe8'
-    - '#050505'
-    - '#72979f'
-    - '#3e6a99'
-    - '#7b4f30'
-  lightness: 0.8125
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: Sharon McAllister Photography
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4657
-layout_spectrum: 0.5361702
+description: nature through my eyes
+purpose: []
